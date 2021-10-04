@@ -1,5 +1,5 @@
 module.exports = {
     mongodb: {
-        URI: 'mongodb://127.0.0.1:27017/node-login-passport-local'
+        URI: 'mongodb+srv://vegabytes:vegabytes@cluster0.iou0i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
     }
 }
